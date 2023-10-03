@@ -421,7 +421,7 @@ if($count>0)
 			</ul>
 		</div>
 		<div class="clearfix"></div>
-		<p class="copy-right">© 2023 Fashionist . All rights reserved | Design by <a href="http://w3layouts.com"> W3layouts.</a></p>
+		<p class="copy-right">© 2023 Fashionist . All rights reserved | Design by fashionist</p>
 	</div>
 </div>
 	<!-- cart-js -->
