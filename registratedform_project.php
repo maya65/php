@@ -36,7 +36,7 @@ button.search {
 		</div>
 		<div class="col-md-6 phone-w3l">
 			<ul>
-			  <center> <li class="active"> <a href="login_form.html"><input type="submit" value="Login Menu"></a></li> </center>
+			  <center> <li class="active"> <a href="login_form.php"><input type="submit" value="Login Menu"></a></li> </center>
 				<li><span class="glyphicon glyphicon-earphone"></span></li>
 				<li style="color:white;">+12345672343</li>
 			</ul>
@@ -57,7 +57,7 @@ button.search {
 				</div> 
 				<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
 					<ul class="nav navbar-nav">
-						<li class=" active"><a href="index.html"><span>Home</span></a></li>	
+						<li class=" active"><a href="index.php"><span>Home</span></a></li>	
 						<li class="dropdown ">
 							<a href="#" class="dropdown-toggle  hyper" data-toggle="dropdown"><span>Gender wise<b class="caret"></b></span></a>
 								<ul class="dropdown-menu multi">
@@ -65,25 +65,25 @@ button.search {
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
 			
-												<li><a href="women.html"><i class="fa fa-angle-right"></i>Women's Clothing</a></li>
-												<li><a href="men.html"><i class="fa fa-angle-right"></i>Men's Clothing</a></li>
-												<li><a href="kids.html"> <i class="fa fa-angle-right"></i>Kid's Wear</a></li>
-												<li><a href="party.html"><i class="fa fa-angle-right"></i>Party Wear</a></li>
+												<li><a href="women.php"><i class="fa fa-angle-right"></i>Women's Clothing</a></li>
+												<li><a href="men.php"><i class="fa fa-angle-right"></i>Men's Clothing</a></li>
+												<li><a href="kids.php"> <i class="fa fa-angle-right"></i>Kid's Wear</a></li>
+												<li><a href="party.php"><i class="fa fa-angle-right"></i>Party Wear</a></li>
 										
 											</ul>
 										
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="casuals.html"><i class="fa fa-angle-right"></i>Casuals</a></li>
-												<li><a href="night.html"><i class="fa fa-angle-right"></i>Night Wear</a></li>
-												<li><a href="formals.html"><i class="fa fa-angle-right"></i>Formals</a></li>
-												<li><a href="inner.html"><i class="fa fa-angle-right"></i>Inner Wear</a></li>
+												<li><a href="casuals.php"><i class="fa fa-angle-right"></i>Casuals</a></li>
+												<li><a href="night.php"><i class="fa fa-angle-right"></i>Night Wear</a></li>
+												<li><a href="formals.php"><i class="fa fa-angle-right"></i>Formals</a></li>
+												<li><a href="inner.php"><i class="fa fa-angle-right"></i>Inner Wear</a></li>
 										
 											</ul>						
 										</div>
 										<div class="col-sm-4 w3l">
-											<a href="women.html"><img src="images/gigi.png" class="img-responsive" alt=""></a>
+											<a href="women.php"><img src="images/gigi.png" class="img-responsive" alt=""></a>
 										</div>
 										
 								 </div>	
@@ -95,10 +95,10 @@ button.search {
 									<div class="row">
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="jewellery.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Jewellery </a></li>
-												<li><a href="watches.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Watches</a></li>
-												<li><a href="cosmetics.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Cosmetics</a></li>
-												<li><a href="deos.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Deo & Perfumes</a></li>
+												<li><a href="jewellery.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Jewellery </a></li>
+												<li><a href="watches.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Watches</a></li>
+												<li><a href="cosmetics.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Cosmetics</a></li>
+												<li><a href="deos.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Deo & Perfumes</a></li>
 										
 											</ul>
 											
@@ -106,23 +106,23 @@ button.search {
 										<div class="col-sm-4">
 											
 											<ul class="multi-column-dropdown">
-												<li><a href="haircare.html"> <i class="fa fa-angle-right" aria-hidden="true"></i>Hair Care </a></li>
-												<li><a href="shoes.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Shoes</a></li>
-												<li><a href="handbags.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Handbags</a></li>
-												<li><a href="skincare.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>
+												<li><a href="haircare.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>Hair Care </a></li>
+												<li><a href="shoes.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Shoes</a></li>
+												<li><a href="handbags.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Handbags</a></li>
+												<li><a href="skincare.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>
 										
 											</ul>
 											
 										</div>
 										<div class="col-sm-4 w3l">
-											<a href="jewellery.html"><img src="images/necklace.png" class="img-responsive" alt=""></a>
+											<a href="jewellery.php"><img src="images/necklace.png" class="img-responsive" alt=""></a>
 										</div>
 			
 									</div>	
 								</ul>
 						</li>
-						<li><a href="about.html" class="hyper"><span>About</span></a></li>
-						<li><a href="contact.html" class="hyper"><span>Contact Us</span></a></li>
+						<li><a href="about.php" class="hyper"><span>About</span></a></li>
+						<li><a href="contact.php" class="hyper"><span>Contact Us</span></a></li>
 					</ul>
 				</div>
 			</nav>
