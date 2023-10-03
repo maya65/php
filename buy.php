@@ -200,7 +200,7 @@ if($count>0)
 <input type="text" name="TOTAL" id="TOTAL">
 </div>
 
-<input type="submit" value="Buy" id="btn" style = "height:40px; color: #2874f0; background-color: #fff; margin-left:120px; margin-top:10px; width:120px;">
+<button class="btn btn-primary">continue to buy</button>
 
 </form>
 <br>
