@@ -27,7 +27,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<a><img src="images/shop.png"><h1>FASHIONIST</span></h1></a>
 		</div>
 		<div class="col-md-6 phone-w3l">
-		      <center> <li class="active"><a href="login_form.html"> <button>career </button></a></li> </center>
+		      <center> <li class="active"><a href="login_form.php"> <button>career </button></a></li> </center>
 			  <li class="active"> <a href="loginform_project.php"><input type="submit" value="Login Menu"></a></li> 
 			<ul>
 				<li><span class="glyphicon glyphicon-earphone"></span></li>
@@ -50,7 +50,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div> 
 				<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
 					<ul class="nav navbar-nav">
-						<li class=" active"><a href="index.html"><span>Home</span></a></li>	
+						<li class=" active"><a href="index.php"><span>Home</span></a></li>	
 						<li class="dropdown ">
 							<a href="#" class="dropdown-toggle  hyper" data-toggle="dropdown"><span>Gender wise<b class="caret"></b></span></a>
 								<ul class="dropdown-menu multi">
@@ -58,25 +58,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
 			
-												<li><a href="women.html"><i class="fa fa-angle-right"></i>Women's Clothing</a></li>
-												<li><a href="men.html"><i class="fa fa-angle-right"></i>Men's Clothing</a></li>
-												<li><a href="kids.html"> <i class="fa fa-angle-right"></i>Kid's Wear</a></li>
-												<li><a href="party.html"><i class="fa fa-angle-right"></i>Party Wear</a></li>
+												<li><a href="women.php"><i class="fa fa-angle-right"></i>Women's Clothing</a></li>
+												<li><a href="men.php"><i class="fa fa-angle-right"></i>Men's Clothing</a></li>
+												<li><a href="kids.php"> <i class="fa fa-angle-right"></i>Kid's Wear</a></li>
+												<li><a href="party.php"><i class="fa fa-angle-right"></i>Party Wear</a></li>
 										
 											</ul>
 										
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="casuals.html"><i class="fa fa-angle-right"></i>Casuals</a></li>
-												<li><a href="night.html"><i class="fa fa-angle-right"></i>Night Wear</a></li>
-												<li><a href="formals.html"><i class="fa fa-angle-right"></i>Formals</a></li>
-												<li><a href="inner.html"><i class="fa fa-angle-right"></i>Inner Wear</a></li>
+												<li><a href="casuals.php"><i class="fa fa-angle-right"></i>Casuals</a></li>
+												<li><a href="night.php"><i class="fa fa-angle-right"></i>Night Wear</a></li>
+												<li><a href="formals.php"><i class="fa fa-angle-right"></i>Formals</a></li>
+												<li><a href="inner.php"><i class="fa fa-angle-right"></i>Inner Wear</a></li>
 										
 											</ul>						
 										</div>
 										<div class="col-sm-4 w3l">
-											<a href="women.html"><img src="images/gigi.png" class="img-responsive" alt=""></a>
+											<a href="women.php"><img src="images/gigi.png" class="img-responsive" alt=""></a>
 										</div>
 										
 								 </div>	
@@ -88,10 +88,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="row">
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="jewellery.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Jewellery </a></li>
-												<li><a href="watches.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Watches</a></li>
-												<li><a href="cosmetics.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Cosmetics</a></li>
-												<li><a href="deos.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Deo & Perfumes</a></li>
+												<li><a href="jewellery.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Jewellery </a></li>
+												<li><a href="watches.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Watches</a></li>
+												<li><a href="cosmetics.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Cosmetics</a></li>
+												<li><a href="deos.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Deo & Perfumes</a></li>
 										
 											</ul>
 											
@@ -99,23 +99,23 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="col-sm-4">
 											
 											<ul class="multi-column-dropdown">
-												<li><a href="haircare.html"> <i class="fa fa-angle-right" aria-hidden="true"></i>Hair Care </a></li>
-												<li><a href="shoes.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Shoes</a></li>
-												<li><a href="handbags.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Handbags</a></li>
-												<li><a href="skincare.html"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>
+												<li><a href="haircare.php"> <i class="fa fa-angle-right" aria-hidden="true"></i>Hair Care </a></li>
+												<li><a href="shoes.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Shoes</a></li>
+												<li><a href="handbags.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Handbags</a></li>
+												<li><a href="skincare.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Skin care</a></li>
 										
 											</ul>
 											
 										</div>
 										<div class="col-sm-4 w3l">
-											<a href="jewellery.html"><img src="images/necklace.png" class="img-responsive" alt=""></a>
+											<a href="jewellery.php"><img src="images/necklace.png" class="img-responsive" alt=""></a>
 										</div>
 			
 									</div>	
 								</ul>
 						</li>
-						<li><a href="about.html" class="hyper"><span>About</span></a></li>
-						<li><a href="contact.html" class="hyper"><span>Contact Us</span></a></li>
+						<li><a href="about.php" class="hyper"><span>About</span></a></li>
+						<li><a href="contact.php" class="hyper"><span>Contact Us</span></a></li>
 					</ul>
 				</div>
 			</nav>
@@ -160,33 +160,33 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<h2>WELCOME TO</h2>
 		<h3>FASHIONIST</h3>
 		<p>We sell thousands of products with the customers feedback and satisfaction. </p>
-		<a href="about.html">Read More</a>
+		<a href="about.php">Read More</a>
 	</div>
 </div>
 <div class="banner-bootom-w3-agileits">  
 	<div class="container">
 		<div class="col-md-5 bb-grids bb-left-agileits-">
-			<a href="women.html"><div class="bb-left-agileits-w3layouts-inner">
+			<a href="women.php"><div class="bb-left-agileits-w3layouts-inner">
 					<h3>SALE</h3>
 					<h4>upto<span>75%</span></h4>
 			</div></a>
 		</div>
 		<div class="col-md-4 bb-grids bb-middle-agileits-w3layouts">
-			<a href="shoes.html"><div class="bb-middle-top">
+			<a href="shoes.php"><div class="bb-middle-top">
 				<h3>SALE</h3>
 				<h4>upto<span>55%</span></h4>
 			</div></a>
-			<a href="jewellery.html"><div class="bb-middle-bottom">
+			<a href="jewellery.php"><div class="bb-middle-bottom">
 				<h3>SALE</h3>
 				<h4>upto<span>65%</span></h4>
 			</div></a>
 		</div>
 		<div class="col-md-3 bb-grids bb-right-agileits-w3layouts">
-			<a href="watches.html"><div class="bb-right-top">
+			<a href="watches.php"><div class="bb-right-top">
 				<h3>SALE</h3>
 				<h4>upto<span>50%</span></h4>
 			</div></a>
-			<a href="handbags.html"><div class="bb-right-bottom">
+			<a href="handbags.php"><div class="bb-right-bottom">
 				<h3>SALE</h3>
 				<h4>upto<span>60%</span></h4>
 			</div></a>
@@ -381,7 +381,7 @@ if($count>0)
 <div class="footer">
 	<div class="container">
 		<div class="col-md-3 footer-grids fgd1">
-		<a href="index.html"><img src="images/shop.png" alt=" " /><h3>FASHIONIST</h3></a>
+		<a href="index.php"><img src="images/shop.png" alt=" " /><h3>FASHIONIST</h3></a>
 		<ul>
 			<li>1234k Avenue, 4th block,</li>
 			<li>New York City.</li>
@@ -395,29 +395,29 @@ if($count>0)
 		<div class="col-md-3 footer-grids fgd2">
 			<h4>Information</h4> 
 			<ul>
-				<li><a href="contact.html">Contact Us</a></li>
-				<li><a href="icons.html">Web Icons</a></li>
-				<li><a href="typography.html">Typography</a></li>
-				<li><a href="faq.html">FAQ's</a></li>
+				<li><a href="contact.php">Contact Us</a></li>
+				<li><a href="icons.php">Web Icons</a></li>
+				<li><a href="typography.php">Typography</a></li>
+				<li><a href="faq.php">FAQ's</a></li>
 			</ul>
 		</div>
 		<div class="col-md-3 footer-grids fgd3">
 			<h4>Shop</h4> 
 			<ul>
-				<li><a href="jewellery.html">Jewellery</a></li>
-				<li><a href="cosmetics.html">Cosmetics</a></li>
-				<li><a href="Shoes.html">Shoes</a></li>
-				<li><a href="deos.html">Deos</a></li>
+				<li><a href="jewellery.php">Jewellery</a></li>
+				<li><a href="cosmetics.php">Cosmetics</a></li>
+				<li><a href="Shoes.php">Shoes</a></li>
+				<li><a href="deos.php">Deos</a></li>
 			</ul>
 		</div>
 		<div class="col-md-3 footer-grids fgd4">
 			<h4>My Account</h4> 
 			<ul>
 				
-				<li><a href="login.html">Login</a></li>
-				<li><a href="register.html">Register</a></li>
-				<li><a href="recommended.html">Recommended </a></li>
-				<li><a href="payment.html">Payments</a></li>
+				<li><a href="login.php">Login</a></li>
+				<li><a href="register.php">Register</a></li>
+				<li><a href="recommended.php">Recommended </a></li>
+				<li><a href="payment.php">Payments</a></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
