@@ -28,7 +28,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="header-top">
 	<div class="container">
 		<div class="col-md-6 shop logo-w3">
-			<a><img src="images/shop.png"><h1>FASHIONIST</span></h1></a>
+			<a><img src="images/shop.png"><h1>FASHIONIST</h1></a>
 		</div>
 		<div class="col-md-6 phone-w3l">
 		      <center> <li class="active"><a href="careertable.php"> <input type="submit" value="career" style="margin-top:10px;"></a></li> </center>
