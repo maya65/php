@@ -1,13 +1,8 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website Template | Typography  :: w3layouts</title>
+<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website </title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -32,54 +27,54 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  <!-- /nav-->
 		  <div class="w3_agileits_top_nav">
 			<ul id="gn-menu" class="gn-menu-main">
-				  		 <!-- /nav_agile_w3l -->
+			  		 <!-- /nav_agile_w3l -->
 				<li class="gn-trigger">
 					<a class="gn-icon gn-icon-menu"><i class="fa fa-bars" aria-hidden="true"></i><span>Menu</span></a>
 					<nav class="gn-menu-wrapper">
 						<div class="gn-scroller scrollbar1">
 							<ul class="gn-menu agile_menu_drop">
-								<li><a href="main-page.html"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
+								<li><a href="main-page.php"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
 								<li>
 									<a href="#"><i class="fa fa-cogs" aria-hidden="true"></i> UI Components <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="buttons.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
-										<li class="mini_list_w3"><a href="grids.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
+										<li class="mini_list_agile"><a href="buttons.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
+										<li class="mini_list_w3"><a href="grids.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-file-text-o" aria-hidden="true"></i>Forms <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="input.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
-										<li class="mini_list_w3"><a href="validation.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
+										<li class="mini_list_agile"><a href="input.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
+										<li class="mini_list_w3"><a href="validation.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
 									</ul>
 								</li>
-								<li><a href="table.html"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
+								<li><a href="table.php"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
 								<li><a href="#"><i class="fa fa-list" aria-hidden="true"></i>Short Codes <i class="fa fa-angle-down" aria-hidden="true"> </i></a> 
 								     	<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="typo.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
-										<li class="mini_list_w3"><a href="icons.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
+										<li class="mini_list_agile"><a href="typo.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
+										<li class="mini_list_w3"><a href="icons.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
 										
 									</ul>
 								</li>
 								
-								<li><a href="charts.html"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
-								<li><a href="maps.html"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
+								<li><a href="charts.php"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
+								<li><a href="maps.php"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
 								<li class="page">
 									<a href="#"><i class="fa fa-files-o" aria-hidden="true"></i> Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
-									 <ul class="gn-submenu">
+										 <ul class="gn-submenu">
 						
-									  <li class="mini_list_agile"> <a href="signin.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
-									   <li class="mini_list_w3"><a href="signup.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
-									   <li class="mini_list_agile error"><a href="404.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
+									  <li class="mini_list_agile"> <a href="signin.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
+									   <li class="mini_list_w3"><a href="signup.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
+									   <li class="mini_list_agile error"><a href="404.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
 	
-										<li class="mini_list_w3_line"><a href="calendar.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
+										<li class="mini_list_w3_line"><a href="calendar.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-suitcase" aria-hidden="true"></i>More <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="faq.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
-										<li class="mini_list_w3"><a href="blank.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
+										<li class="mini_list_agile"><a href="faq.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
+										<li class="mini_list_w3"><a href="blank.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -87,7 +82,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</nav>
 				</li>
 				<!-- //nav_agile_w3l -->
-                <li class="second logo"><h1><a href="main-page.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
+                <li class="second logo"><h1><a href="main-page.php"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
 					<li class="second admin-pic">
 				       <ul class="top_dp_agile">
 									<li class="dropdown profile_details_drop">
@@ -293,277 +288,234 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3l_agileits_breadcrumbs">
 							<div class="w3l_agileits_breadcrumbs_inner">
 								<ul>
-									<li><a href="main-page.html">Home</a><span>«</span></li>
-									<li>Short Codes<span>«</span></li>
-									<li>Typography</li>
+									<li><a href="main-page.php">Home</a><span>«</span></li>
+									<li>UI Components <span>«</span></li>
+									<li>Buttons</li>
 								</ul>
 							</div>
 						</div>
 					<!-- //breadcrumbs -->
 
 					<div class="inner_content_w3_agile_info two_in">
-					  <h2 class="w3_inner_tittle">Typography</h2>
+					  <h2 class="w3_inner_tittle">Buttons</h2>
 
-							<!-- /typography -->
-							
-								<div class="wthree-typo agile_info_shadow">
-			
-									<div class="grid_3 grid_4 w3layouts">
-										<h3 class="hdg">Headings</h3>
-										<div class="bs-example">
-											<table class="table">
-												<tbody>
-													<tr>
-														<td><h1 id="h1.-bootstrap-heading">h1. Bootstrap heading<a class="anchorjs-link" href="#h1.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h1></td>
-														<td class="type-info">Semibold 36px</td>
-													</tr>
-													<tr>
-														<td><h2 id="h2.-bootstrap-heading">h2. Bootstrap heading<a class="anchorjs-link" href="#h2.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h2></td>
-														<td class="type-info">Semibold 30px</td>
-													</tr>
-													<tr>
-														<td><h3 id="h3.-bootstrap-heading">h3. Bootstrap heading<a class="anchorjs-link" href="#h3.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h3></td>
-														<td class="type-info">Semibold 24px</td>
-													</tr>
-													<tr>
-														<td><h4 id="h4.-bootstrap-heading">h4. Bootstrap heading<a class="anchorjs-link" href="#h4.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h4></td>
-														<td class="type-info">Semibold 18px</td>
-													</tr>
-													<tr>
-														<td><h5 id="h5.-bootstrap-heading">h5. Bootstrap heading<a class="anchorjs-link" href="#h5.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h5></td>
-														<td class="type-info">Semibold 14px</td>
-													</tr>
-													<tr>
-														<td><h6>h6. Bootstrap heading</h6></td>
-														<td class="type-info">Semibold 12px</td>
-													</tr>
-												</tbody>
-											</table>
-										</div>
-									</div>
+							<!-- /buttons_w3ls_agile -->
+								<div class="buttons_w3ls_agile">
 								
-									<div class="grid_3 grid_5 w3l">
-										<h3>Progress Bars</h3>
-										<div class="tab-content">
-											<div class="tab-pane active" id="domprogress">
-												<div class="progress">    
-													<div class="progress-bar progress-bar-primary" style="width: 20%"></div>
-												</div>
-												<p>Info with <code>progress-bar-info</code> class.</p>
-												<div class="progress">    
-													<div class="progress-bar progress-bar-info" style="width: 60%"></div>
-												</div>
-												<p>Success with <code>progress-bar-success</code> class.</p>
-												<div class="progress">
-													<div class="progress-bar progress-bar-success" style="width: 30%"></div>
-												</div>
-												<p>Warning with <code>progress-bar-warning</code> class.</p>
-												<div class="progress">
-													<div class="progress-bar progress-bar-warning" style="width: 70%"></div>
-												</div>
-												<p>Danger with <code>progress-bar-danger</code> class.</p>
-												<div class="progress">
-													<div class="progress-bar progress-bar-danger" style="width: 50%"></div>
-												</div>
-												<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-												<div class="progress">
-													<div class="progress-bar progress-bar-inverse" style="width: 40%"></div>
-												</div>
-												<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-												<div class="progress">
-													<div class="progress-bar progress-bar-success" style="width: 35%"><span class="sr-only">35% Complete (success)</span></div>
-													<div class="progress-bar progress-bar-warning" style="width: 20%"><span class="sr-only">20% Complete (warning)</span></div>
-													<div class="progress-bar progress-bar-danger" style="width: 10%"><span class="sr-only">10% Complete (danger)</span></div>
-												</div>
-											</div>
-										</div>
+									<div class="col-md-6 button_set_one agile_info_shadow">
+									 <h3 class="w3_inner_tittle two">Simple Buttons</h3>
+										<!-- Standard button -->
+											<button type = "button" class = "btn btn-default">Default Button</button>
+
+											<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+											<button type = "button" class = "btn btn-primary">Primary Button</button>
+
+											<!-- Indicates a successful or positive action -->
+											<button type = "button" class = "btn btn-success">Success Button</button>
+
+											<!-- Contextual button for informational alert messages -->
+											<button type = "button" class = "btn btn-info">Info Button</button>
+
+											<!-- Indicates caution should be taken with this action -->
+											<button type = "button" class = "btn btn-warning">Warning Button</button>
+
+											<!-- Indicates a dangerous or potentially negative action -->
+											<button type = "button" class = "btn btn-danger">Danger Button</button>
+
+											
 									</div>
-									<div class="grid_3 grid_5 w3ls">
-										<h3>Alerts</h3>
-										<div class="alert alert-success" role="alert">
-											<strong>Well done!</strong> You successfully read this important alert message.
-										</div>
-										<div class="alert alert-info" role="alert">
-											<strong>Heads up!</strong> This alert needs your attention, but it's not super important.
-										</div>
-										<div class="alert alert-warning" role="alert">
-											<strong>Warning!</strong> Best check yo self, you're not looking too good.
-										</div>
-										<div class="alert alert-danger" role="alert">
-											<strong>Oh snap!</strong> Change a few things up and try submitting again.
-										</div>
+									<div class="col-md-6 button_set_one two agile_info_shadow">
+										<!-- Standard button -->
+										 <h3 class="w3_inner_tittle two"> Button With Radius</h3>
+
+											<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
+											<button type = "button" class = "btn btn-primary">Primary Button</button>
+
+											<!-- Indicates a successful or positive action -->
+											<button type = "button" class = "btn btn-success">Success Button</button>
+
+											<!-- Contextual button for informational alert messages -->
+											<button type = "button" class = "btn btn-info">Info Button</button>
+
+											<!-- Indicates caution should be taken with this action -->
+											<button type = "button" class = "btn btn-warning">Warning Button</button>
+
+											<!-- Indicates a dangerous or potentially negative action -->
+											<button type = "button" class = "btn btn-danger">Danger Button</button>
+
+											
 									</div>
-									<div class="grid_3 grid_5 agileits">
-										<h3>Pagination</h3>
-										<div class="col-md-6">
-											<nav>
-												<ul class="pagination pagination-lg">
-													<li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
-													<li><a href="#">1</a></li>
-													<li><a href="#">2</a></li>
-													<li><a href="#">3</a></li>
-													<li><a href="#">4</a></li>
-													<li><a href="#">5</a></li>
-													<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-												</ul>
-											</nav>
-											<nav>
-												<ul class="pagination">
-													<li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
-													<li><a href="#">1</a></li>
-													<li><a href="#">2</a></li>
-													<li><a href="#">3</a></li>
-													<li><a href="#">4</a></li>
-													<li><a href="#">5</a></li>
-													<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-												</ul>
-											</nav>
-											<nav>
-												<ul class="pagination pagination-sm">
-													<li><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
-													<li><a href="#">1</a></li>
-													<li><a href="#">2</a></li>
-													<li><a href="#">3</a></li>
-													<li><a href="#">4</a></li>
-													<li><a href="#">5</a></li>
-													<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-												</ul>
-											</nav>
-										</div>
-										<div class="col-md-6">
-											<ul class="pagination pagination-lg">
-												<li class="disabled"><a href="#"><i class="fa fa-angle-left">«</i></a></li>
-												<li class="active"><a href="#">1</a></li>
-												<li><a href="#">2</a></li>
-												<li><a href="#">3</a></li>
-												<li><a href="#">4</a></li>
-												<li><a href="#">5</a></li>
-												<li><a href="#"><i class="fa fa-angle-right">»</i></a></li>
-											</ul>
-											<nav>
-												<ul class="pagination">
-													<li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">«</span></a></li>
-													<li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
-													<li><a href="#">2</a></li>
-													<li><a href="#">3</a></li>
-													<li><a href="#">4</a></li>
-													<li><a href="#">5</a></li>
-													<li><a href="#" aria-label="Next"><span aria-hidden="true">»</span></a></li>
-												</ul>
-											</nav>
-											<ul class="pagination pagination-sm">
-												<li class="disabled"><a href="#"><i class="fa fa-angle-left">«</i></a></li>
-												<li class="active"><a href="#">1</a></li>
-												<li><a href="#">2</a></li>
-												<li><a href="#">3</a></li>
-												<li><a href="#">4</a></li>
-												<li><a href="#">5</a></li>
-												<li><a href="#"><i class="fa fa-angle-right">»</i></a></li>
-											</ul>
-										</div>
-										<div class="clearfix"> </div>
-									</div>
-									<div class="grid_3 grid_5 agileinfo">
-										<h3>Breadcrumbs</h3>
-										<ol class="breadcrumb">
-											<li class="active">Home</li>
-										</ol>
-										<ol class="breadcrumb">
-											<li><a href="#">Home</a></li>
-											<li class="active">Library</li>
-										</ol>
-										<ol class="breadcrumb">
-											<li><a href="#">Home</a></li>
-											<li><a href="#">Library</a></li>
-											<li class="active">Data</li>
-										</ol>
-									</div>
-									<div class="grid_3 grid_5 wthree">
-										<h3>Badges</h3>
-										<div class="col-md-6 agileits-w3layouts">
-											<p>Add modifier classes to change the appearance of a badge.</p>
-											<table class="table table-bordered">
-												<thead>
-													<tr>
-														<th>Classes</th>
-														<th>Badges</th>
-													</tr>
-												</thead>
-												<tbody>
-													<tr>
-														<td>No modifiers</td>
-														<td><span class="badge">42</span></td>
-													</tr>
-													<tr>
-														<td><code>.badge-primary</code></td>
-														<td><span class="badge badge-primary">1</span></td>
-													</tr>
-													<tr>
-														<td><code>.badge-success</code></td>
-														<td><span class="badge badge-success">22</span></td>
-													</tr>
-													<tr>
-														<td><code>.badge-info</code></td>
-														<td><span class="badge badge-info">30</span></td>
-													</tr>
-													<tr>
-														<td><code>.badge-warning</code></td>
-														<td><span class="badge badge-warning">412</span></td>
-													</tr>
-													<tr>
-														<td><code>.badge-danger</code></td>
-														<td><span class="badge badge-danger">999</span></td>
-													</tr>
-												</tbody>
-											</table>                    
-										</div>
-										<div class="col-md-6 w3-agileits">
-											<p>Easily highlight new or unread items with the <code>.badge</code> class</p>
-											<div class="list-group list-group-alternate"> 
-												<a href="#" class="list-group-item"><span class="badge">201</span> <i class="ti ti-email"></i> Inbox </a> 
-												<a href="#" class="list-group-item"><span class="badge badge-primary">5021</span> <i class="ti ti-eye"></i> Profile visits </a> 
-												<a href="#" class="list-group-item"><span class="badge">14</span> <i class="ti ti-headphone-alt"></i> Call </a> 
-												<a href="#" class="list-group-item"><span class="badge">20</span> <i class="ti ti-comments"></i> Messages </a> 
-												<a href="#" class="list-group-item"><span class="badge badge-warning">14</span> <i class="ti ti-bookmark"></i> Bookmarks </a> 
-												<a href="#" class="list-group-item"><span class="badge badge-danger">30</span> <i class="ti ti-bell"></i> Notifications </a> 
-											</div>
-										</div>
-									   <div class="clearfix"> </div>
-									</div>	 
-									<div class="grid_3 grid_5 agile">
-										<h3>Wells</h3>
-										<div class="well">
-											There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-										</div>
-										<div class="well">
-											It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here
-										</div>
-										<div class="well">
-												Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-										</div>
-									</div>
-									<h3 class="bars">Unordered List</h3>
-									<ul class="list-group w3-agile">
-									  <li class="list-group-item">Cras justo odio</li>
-									  <li class="list-group-item">Dapibus ac facilisis in</li>
-									  <li class="list-group-item">Morbi leo risus</li>
-									  <li class="list-group-item">Porta ac consectetur ac</li>
-									  <li class="list-group-item">Vestibulum at eros</li>
-									</ul>
-									<h3 class="bars">Ordered List</h3>
-									<ol>
-										<li class="list-group-item1">Cras justo odio</li>
-										<li class="list-group-item1">Dapibus ac facilisis in</li>
-										<li class="list-group-item1">Morbi leo risus</li>
-										<li class="list-group-item1">Porta ac consectetur ac</li>
-										<li class="list-group-item1">Vestibulum at eros</li>
-									</ol>
-									
-									
+									<div class="clearfix"></div>
 								</div>
-							</div>
-							<!-- //typography -->
-					
+							<!-- //buttons_w3ls_agile -->
+					        <!-- /buttons_w3ls_agile -->
+								<div class="buttons_w3ls_agile">
+								
+									<div class="col-md-6 button_set_one three agile_info_shadow">
+									 <h3 class="w3_inner_tittle two">Button With Icon</h3>
+										<!-- Standard button -->
+											
+
+										<button type="button" class="btn btn-primary btn-flat btn-pri"><i class="fa fa-plus" aria-hidden="true"></i> Primary</button>
+										<button type="button" class="btn btn-success btn-flat btn-pri"><i class="fa fa-plus" aria-hidden="true"></i> Success</button>
+										
+										<button type="button" class="btn btn-info btn-flat btn-pri"><i class="fa fa-plus" aria-hidden="true"></i>Info</button>
+										<button type="button" class="btn btn-warning btn-flat btn-pri"><i class="fa fa-plus" aria-hidden="true"></i>Warning</button>
+										<button type="button" class="btn btn-danger btn-flat btn-pri"><i class="fa fa-plus" aria-hidden="true"></i>Danger</button>
+											
+									</div>
+									<div class="col-md-6 button_set_one three one agile_info_shadow">
+										<!-- Standard button -->
+										 <h3 class="w3_inner_tittle two"> Button With Icon</h3>
+
+										<button type="button" class="btn btn-primary btn-flat btn-pri btn-lg"><i class="fa fa-plus" aria-hidden="true"></i> Primary</button>
+										<button type="button" class="btn btn-success btn-flat btn-pri btn-md"><i class="fa fa-plus" aria-hidden="true"></i> Success</button>
+										
+										<button type="button" class="btn btn-info btn-flat btn-pri btn-sm"><i class="fa fa-plus" aria-hidden="true"></i>Info</button>
+										<button type="button" class="btn btn-warning btn-flat btn-pri btn-xs"><i class="fa fa-plus" aria-hidden="true"></i>Warning</button>
+										
+											
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							<!-- //buttons_w3ls_agile -->
+							     <!-- /buttons_w3ls_agile -->
+								<div class="buttons_w3ls_agile">
+								
+									<div class="col-md-4 sub_agile_btn agile_info_shadow">
+									 <h3 class="w3_inner_tittle two">Button States</h3>
+										<!-- Standard button -->
+											
+
+										<div class="sub_agile mtn">
+											<p class="mb15">
+												<code>.disabled</code>
+											</p>
+
+											<div class="bs-component mb20">
+												<button type="button" class="btn disabled btn-dark btn-block">Disabled</button>
+											</div>
+											<p class="mb15">
+												<code>.btn-hover</code>
+											</p>
+
+											<div class="bs-component mb20">
+												<button type="button" class="btn btn-hover btn-dark btn-block">Hover</button>
+											<div id="source-button" class="btn btn-system btn-xs" style="display: none;">&lt; &gt;</div></div>
+											<p class="mb15">
+												<code>.active</code>
+											</p>
+
+											<div class="bs-component mb20">
+												<button type="button" class="btn active btn-dark btn-block">Active</button>
+											</div>
+										</div>
+											
+									</div>
+									<div class="col-md-4 sub_agile_btn agile_info_shadow">
+										<!-- Standard button -->
+										 <h3 class="w3_inner_tittle two">Button Sizes</h3>
+
+										 <div class="sub_agile mtn">
+													<p class="mb15">
+														<code>.btn-xs</code>
+													</p>
+
+													<div class="bs-component mb20">
+														<button type="button" class="btn btn-xs btn-primary btn-block">Primary</button>
+													</div>
+													<p class="mb15">
+														<code>.btn-sm</code>
+													</p>
+
+													<div class="bs-component mb20">
+														<button type="button" class="btn btn-sm btn-primary btn-block">Primary</button>
+													</div>
+
+													<p class="mb15">
+														<code>Normal button</code>
+													</p>
+
+													<div class="bs-component mb20">
+														<button type="button" class="btn btn-primary btn-block">Primary</button>
+													</div>
+													<p class="mb15">
+														<code>.btn-lg</code>
+													</p>
+
+													<div class="bs-component mb20">
+														<button type="button" class="btn btn-lg btn-primary btn-block">Primary</button>
+													</div>
+												</div>
+										
+											
+									</div>
+								<div class="col-md-4 sub_agile_btn agile_info_shadow">
+										<!-- Standard button -->
+										 <h3 class="w3_inner_tittle two">Toggle Buttons</h3>
+									     <div class="inner-toggle">
+																		<span class="toggle">
+																					<input type="checkbox">
+																					<label data-off="&#10006;" data-on="&#10004;"></label>
+																				</span>
+
+																				<span class="toggle">
+																					<input type="checkbox">
+																					<label data-off="&#9724;" data-on="&#9654;"></label>
+																				</span>
+																				<span class="toggle">
+																					<input type="checkbox">
+																					<label data-off="Stop" data-on="Play"></label>
+																				</span>
+																		 </div>
+													</div>
+											
+									
+									
+									<div class="clearfix"></div>
+								</div>
+							<!-- //buttons_w3ls_agile -->
+											        <!-- /buttons_w3ls_agile -->
+								<div class="buttons_w3ls_agile">
+								
+									<div class="col-md-6 button_set_one three agile_info_shadow">
+									 <h3 class="w3_inner_tittle two">Animation Buttons</h3>
+										<!-- Standard button -->
+											<div id="holder">
+
+												<div class="button">
+													<p class="btnText">READY?</p>
+													<div class="btnTwo">
+													  <p class="btnText2">GO!</p>
+													</div>
+												 </div>
+
+												<div class="button">
+													<p class="btnText">CANCEL</p>
+													<div class="btnTwo">
+													  <p class="btnText2">X</p>
+													</div>
+												 </div>
+
+												</div>
+
+											
+									</div>
+									<div class="col-md-6 button_set_one three one agile_info_shadow">
+										<!-- Standard button -->
+										 <h3 class="w3_inner_tittle two">Transition Buttons</h3>
+												<div id="holder1">
+
+													<button type="button" class="grow">Grow</button>
+													<button type="button" class="shrink">Shrink</button>
+												
+												</div>
+										
+											
+									</div>
+									<div class="clearfix"></div>
+								</div>
+							<!-- //buttons_w3ls_agile -->
 							<!-- /social_media-->
 						  <div class="social_media_w3ls">
 						 
@@ -673,7 +625,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- banner -->
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2017 Esteem. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	 <p>© 2023 Esteem. All Rights Reserved  </p>
 </div>	
 <!--copy rights end here-->
 <!-- js -->
@@ -686,6 +638,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		  <script>
 			new gnMenu( document.getElementById( 'gn-menu' ) );
 		 </script>
+
 <!-- //js -->
 <script src="js/screenfull.js"></script>
 		<script>

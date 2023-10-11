@@ -1,13 +1,8 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website </title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -42,48 +37,48 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<nav class="gn-menu-wrapper">
 						<div class="gn-scroller scrollbar1">
 							<ul class="gn-menu agile_menu_drop">
-								<li><a href="main-page.html"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
+								<li><a href="main-page.php"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
 								<li>
 									<a href="#"><i class="fa fa-cogs" aria-hidden="true"></i> UI Components <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="buttons.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
-										<li class="mini_list_w3"><a href="grids.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
+										<li class="mini_list_agile"><a href="buttons.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
+										<li class="mini_list_w3"><a href="grids.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-file-text-o" aria-hidden="true"></i>Forms <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="input.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
-										<li class="mini_list_w3"><a href="validation.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
+										<li class="mini_list_agile"><a href="input.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
+										<li class="mini_list_w3"><a href="validation.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
 									</ul>
 								</li>
-								<li><a href="table.html"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
+								<li><a href="table.php"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
 								<li><a href="#"><i class="fa fa-list" aria-hidden="true"></i>Short Codes <i class="fa fa-angle-down" aria-hidden="true"> </i></a> 
 								     	<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="typo.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
-										<li class="mini_list_w3"><a href="icons.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
+										<li class="mini_list_agile"><a href="typo.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
+										<li class="mini_list_w3"><a href="icons.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
 										
 									</ul>
 								</li>
 								
-								<li><a href="charts.html"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
-								<li><a href="maps.html"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
+								<li><a href="charts.php"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
+								<li><a href="maps.php"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
 								<li class="page">
 									<a href="#"><i class="fa fa-files-o" aria-hidden="true"></i> Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 										 <ul class="gn-submenu">
 						
-									  <li class="mini_list_agile"> <a href="signin.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
-									   <li class="mini_list_w3"><a href="signup.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
-									   <li class="mini_list_agile error"><a href="404.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
+									  <li class="mini_list_agile"> <a href="signin.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
+									   <li class="mini_list_w3"><a href="signup.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
+									   <li class="mini_list_agile error"><a href="404.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
 	
-										<li class="mini_list_w3_line"><a href="calendar.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
+										<li class="mini_list_w3_line"><a href="calendar.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-suitcase" aria-hidden="true"></i>More <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="faq.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
-										<li class="mini_list_w3"><a href="blank.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
+										<li class="mini_list_agile"><a href="faq.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
+										<li class="mini_list_w3"><a href="blank.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -91,7 +86,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</nav>
 				</li>
 				<!-- //nav_agile_w3l -->
-				<li class="second logo"><h1><a href="main-page.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
+				<li class="second logo"><h1><a href="main-page.php"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
 					<li class="second admin-pic">
 				       <ul class="top_dp_agile">
 									<li class="dropdown profile_details_drop">
@@ -739,7 +734,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- banner -->
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2017 Esteem. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	 <p>© 2023 Esteem. All Rights Reserved </p>
 </div>	
 <!--copy rights end here-->
 <!-- js -->

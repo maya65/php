@@ -1,13 +1,8 @@
-<!--
-author: W3layouts
-author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website Template | Maps :: w3layouts</title>
+<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -20,7 +15,6 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <link href="css/component.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style_grid.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-
 <!-- font-awesome-icons -->
 <link href="css/font-awesome.css" rel="stylesheet"> 
 <!-- //font-awesome-icons -->
@@ -39,48 +33,48 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<nav class="gn-menu-wrapper">
 						<div class="gn-scroller scrollbar1">
 							<ul class="gn-menu agile_menu_drop">
-								<li><a href="main-page.html"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
+								<li><a href="main-page.php"> <i class="fa fa-tachometer"></i> Dashboard</a></li>
 								<li>
 									<a href="#"><i class="fa fa-cogs" aria-hidden="true"></i> UI Components <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="buttons.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
-										<li class="mini_list_w3"><a href="grids.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
+										<li class="mini_list_agile"><a href="buttons.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Buttons</a></li>
+										<li class="mini_list_w3"><a href="grids.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Grids</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-file-text-o" aria-hidden="true"></i>Forms <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="input.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
-										<li class="mini_list_w3"><a href="validation.html"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
+										<li class="mini_list_agile"><a href="input.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Inputs</a></li>
+										<li class="mini_list_w3"><a href="validation.php"><i class="fa fa-caret-right" aria-hidden="true"></i> Validation</a></li>
 									</ul>
 								</li>
-								<li><a href="table.html"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
+								<li><a href="table.php"> <i class="fa fa-table" aria-hidden="true"></i> Tables</a></li>
 								<li><a href="#"><i class="fa fa-list" aria-hidden="true"></i>Short Codes <i class="fa fa-angle-down" aria-hidden="true"> </i></a> 
 								     	<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="typo.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
-										<li class="mini_list_w3"><a href="icons.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
+										<li class="mini_list_agile"><a href="typo.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Typography</a></li>
+										<li class="mini_list_w3"><a href="icons.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Icons</a></li>
 										
 									</ul>
 								</li>
 								
-								<li><a href="charts.html"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
-								<li><a href="maps.html"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
+								<li><a href="charts.php"> <i class="fa fa-line-chart" aria-hidden="true"></i> Charts</a></li>
+								<li><a href="maps.php"><i class="fa fa-map-o" aria-hidden="true"></i> Maps</a></li>
 								<li class="page">
 									<a href="#"><i class="fa fa-files-o" aria-hidden="true"></i> Pages <i class="fa fa-angle-down" aria-hidden="true"></i></a>
 									 <ul class="gn-submenu">
 						
-									  <li class="mini_list_agile"> <a href="signin.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
-									   <li class="mini_list_w3"><a href="signup.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
-									   <li class="mini_list_agile error"><a href="404.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
+									  <li class="mini_list_agile"> <a href="signin.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign In</a></li>
+									   <li class="mini_list_w3"><a href="signup.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Sign Up</a></li>
+									   <li class="mini_list_agile error"><a href="404.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Error 404 </a></li>
 	
-										<li class="mini_list_w3_line"><a href="calendar.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
+										<li class="mini_list_w3_line"><a href="calendar.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Calendar</a></li>
 									</ul>
 								</li>
 								<li>
 									<a href="#"> <i class="fa fa-suitcase" aria-hidden="true"></i>More <i class="fa fa-angle-down" aria-hidden="true"></i></a> 
 									<ul class="gn-submenu">
-										<li class="mini_list_agile"><a href="faq.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
-										<li class="mini_list_w3"><a href="blank.html"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
+										<li class="mini_list_agile"><a href="faq.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Faq</a></li>
+										<li class="mini_list_w3"><a href="blank.php"> <i class="fa fa-caret-right" aria-hidden="true"></i> Blank Page</a></li>
 									</ul>
 								</li>
 							</ul>
@@ -88,7 +82,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</nav>
 				</li>
 				<!-- //nav_agile_w3l -->
-				<li class="second logo"><h1><a href="main-page.html"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
+				<!-- //nav_agile_w3l -->
+                <li class="second logo"><h1><a href="main-page.php"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Esteem </a></h1></li>
 					<li class="second admin-pic">
 				       <ul class="top_dp_agile">
 									<li class="dropdown profile_details_drop">
@@ -294,36 +289,53 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3l_agileits_breadcrumbs">
 							<div class="w3l_agileits_breadcrumbs_inner">
 								<ul>
-									<li><a href="main-page.html">Home</a><span>«</span></li>
-									<li>Maps</li>
+									<li><a href="main-page.php">Home</a><span>«</span></li>
+									<li>More <span>«</span></li>
+									<li>FaQs</li>
 								</ul>
 							</div>
 						</div>
 					<!-- //breadcrumbs -->
 
 					<div class="inner_content_w3_agile_info two_in">
-					  <h2 class="w3_inner_tittle">Maps</h2>
-					    <!-- /map1-->
-						  <div class="agile_map_info agile_info_shadow">
-						     			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d424521.98724489537!2d150.6419337943232!3d-33.77156856642666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b129838f39a743f%3A0x3017d681632a850!2sSydney+NSW%2C+Australia!5e0!3m2!1sen!2sin!4v1476529981265" frameborder="0" style="border:0" allowfullscreen></iframe>
-						  </div>
-						 <!-- //map1-->
-						 <!-- /map2-->
-						  <div class="agile_map_info two agile_info_shadow">
-						 	<div id="map"></div>
-						   </div>
-						 <!-- //map2-->
-						  <!-- /map3-->
-						  <div class="agile_map_info third agile_info_shadow">
-						 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1561659.212548834!2d-75.85228750854475!3d40.1397075563189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0fb959e00409f%3A0x2cd27b07f83f6d8d!2sNew+Jersey%2C+USA!5e0!3m2!1sen!2sin!4v1469783585045" frameborder="0" style="border:0" allowfullscreen></iframe>
-						   </div>
-						 <!-- //map3-->
-						  <!-- /map4-->
-						  <div class="agile_map_info agile_info_shadow">
-						 	<div class="map-canvas"></div>
-						   </div>
-						 <!-- //map4-->
-						<!-- /social_media-->
+					  <h2 class="w3_inner_tittle">Frequently Asked Questions</h2>
+
+								<div class="asked agile_info_shadow">
+									<div class="questions">
+										<h5>1.What is Lorem Ipsum?</h5>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+									</div>
+									 <div class="questions">
+										<h5>2.What is Lorem Ipsum dummy text ever since the 1500s?</h5>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+									 </div>	
+									
+									  <div class="questions">
+										<h5>3.What is Duis laoreet, erat quis gravida porttitor odio felis ornare dui?</h5>
+										<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nam semper elit risus, nec suscipit tellus tincidunt quis. Fusce non auctor enim. Suspendisse sit amet erat mollis, suscipit nisl sed, condimentum turpis. Curabitur faucibus, nisl ut aliquam porta, massa tortor tristique dolor, eget porttitor velit ligula vel eros. Sed egestas aliquet tellus. Nulla ac luctus urna. Pellentesque feugiat eros quis nibh consectetur, eget dapibus magna egestas. Phasellus non efficitur metus.</p>
+									 </div>	
+							
+									  <div class="questions">
+										<h5>4.What is Quisque sollicitudin diam vel mauris volutpat viverra Proin ac imperdiet libero?</h5>
+										<p>Proin dignissim mi sit amet tincidunt varius. Quisque molestie fermentum dignissim. Sed in urna eget tortor congue tempus. Vestibulum gravida, erat in eleifend ultricies, felis lorem dictum nulla, ut tincidunt neque libero et nibh. Nullam at eros eu ligula auctor interdum a eget lorem. Praesent molestie eros vitae felis efficitur, at finibus sem molestie. Ut sit amet nisi at nunc pulvinar dapibus. Sed non neque et tortor finibus mattis. Mauris sit amet consectetur eros. Sed et ex posuere, vulputate dolor vel, pulvinar felis. </p>
+									 </div>	
+									  <div class="questions">
+										<h5>5.What is Nam semper elit risus, nec suscipit tellus tincidunt quis?</h5>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+									 </div>	
+									  <div class="questions">
+										<h5>6.What is Quisque molestie fermentum dignissim?</h5>
+										<p>Sed eget nunc ex. Donec erat est, dapibus ac massa in, laoreet sagittis eros. Aliquam eget arcu feugiat leo elementum tristique. Praesent facilisis aliquam lorem sed pharetra. Donec scelerisque ipsum vel tincidunt gravida. Aliquam erat volutpat. Etiam mattis rhoncus massa, quis semper purus ornare id. Quisque sit amet mattis ipsum, in porttitor massa. Nullam tincidunt mi vel enim volutpat, a elementum libero imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean tincidunt eros eu nisl consequat facilisis. Maecenas ac accumsan elit, sit amet gravida nulla.</p>
+									 </div>	
+									  <div class="questions">
+										<h5>7.What is Vestibulum ante ipsum primis in faucibus orci luctus et?</h5>
+										<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+									 </div>				    
+
+								</div>
+							<!-- //faq -->
+					
+							<!-- /social_media-->
 						  <div class="social_media_w3ls">
 						 
 						      <div class="col-md-3 socail_grid_agile facebook">
@@ -432,7 +444,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- banner -->
 <!--copy rights start here-->
 <div class="copyrights">
-	 <p>© 2017 Esteem. All Rights Reserved | Design by  <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+	 <p>© 2023 Esteem. All Rights Reserved </p>
 </div>	
 <!--copy rights end here-->
 <!-- js -->
